@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 
 ## Projects
 
-* [Project 0. Guess the number] (https://github.com/beleberder/Skillfactory/project_0)
+* [Project 0. Guess the number] (https://github.com/beleberder/Skillfactory/tree/main/project_0)
 * [Project 1._______](___)
 * [Project 2._______](___)
 
