@@ -40,7 +40,7 @@
 4) Если занаданное число больше нашей догадки, то левая граница приравнивается текущей догадке.
 5) Шаги 2-4 продолжаются до тех пор показагаданное число не равно догадке.
 
-Алгоритм реализован в файле game.py(https://github.com/beleberder/Skillfactory/blob/main/project_0/game.py), результаты представлены в файле game.ipynb(https://github.com/beleberder/Skillfactory/blob/main/project_0/game.ipynb)
+Алгоритм реализован в файле [game.py](https://github.com/beleberder/Skillfactory/blob/main/project_0/game.py), результаты представлены в файле [game.ipynb](https://github.com/beleberder/Skillfactory/blob/main/project_0/game.ipynb)
 
 :arrow_up:[ к оглавлению](README.md#оглавление)
 
